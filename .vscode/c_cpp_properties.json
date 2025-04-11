@@ -4,7 +4,8 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "D:\\Development\\x86_64-w64-mingw32\\include"
+                "D:\\Development\\x86_64-w64-mingw32\\include",
+                "D:\\Development\\PrepareUDP_Serial\\include"
             ],
             "defines": [
                 "_DEBUG",
@@ -16,7 +17,8 @@
             "cppStandard": "gnu++17",
             "intelliSenseMode": "windows-gcc-x64",
             "compilerArgs": [
-                "D:\\Development\\x86_64-w64-mingw32\\include"
+                "D:\\Development\\x86_64-w64-mingw32\\include",
+                "D:\\Development\\PrepareUDP_Serial\\include"
             ]
         }
     ],
